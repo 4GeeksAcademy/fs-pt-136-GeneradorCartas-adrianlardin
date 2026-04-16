@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: green;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#card {
+    background: white;
+    width: 25%;
+    height: 70%;
+    border-radius: 20px;
+    position: relative;
+}
+.button {
+    margin-bottom: 10px;
+}
